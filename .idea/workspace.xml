@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a341045-b2b4-4aad-aad2-1fa171aea048" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_benefits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_consultation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_titles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/slide2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/slider/slide2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_buttons.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/blocks/_promo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_promo.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
     </list>
@@ -34,7 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -57,7 +61,12 @@
       <workItem from="1650015940728" duration="5080000" />
       <workItem from="1650134227315" duration="66000" />
       <workItem from="1650134325806" duration="213000" />
-      <workItem from="1650134545138" duration="5413000" />
+      <workItem from="1650134545138" duration="5597000" />
+      <workItem from="1650210082174" duration="8147000" />
+      <workItem from="1650263858846" duration="2524000" />
+      <workItem from="1650276554509" duration="4541000" />
+      <workItem from="1650389735572" duration="13000" />
+      <workItem from="1650445154528" duration="860000" />
     </task>
     <servers />
   </component>
