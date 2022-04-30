@@ -170,6 +170,7 @@
   color: #0D0D0D;
   padding: 70px 0 60px 0;
   text-transform: uppercase;
+  text-align: center;
 }
 .title_left {
   text-align: left;
@@ -201,7 +202,7 @@
 
 .carousel {
   min-height: 580px;
-  padding: 81px 0;
+  padding: 81px 0 0 0;
 }
 .carousel__inner {
   position: relative;
@@ -230,7 +231,6 @@
 }
 
 .catalog {
-  padding-bottom: 100px;
   text-align: center;
 }
 .catalog__tabs {
@@ -398,6 +398,85 @@
   background-color: #c70101;
   left: -14px;
   top: 5px;
+}
+
+.reviews__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  padding-bottom: 60px;
+}
+.reviews__photo {
+  height: 169px;
+  width: 169px;
+  display: block;
+}
+.reviews__text {
+  padding-left: 60px;
+  max-width: 780px;
+}
+.reviews__name {
+  font-weight: 700;
+  font-size: 18px;
+  color: #0D0D0D;
+}
+.reviews__progress {
+  font-weight: 500;
+  font-size: 14px;
+  color: #646464;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  text-transform: lowercase;
+}
+.reviews__descr {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.footer {
+  min-height: 630px;
+  position: relative;
+}
+.footer__info {
+  position: absolute;
+  width: 460px;
+  height: 270px;
+  background-color: #c70101;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 50px 68px 60px 68px;
+}
+.footer__addr {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  color: #fff;
+  margin-bottom: 36px;
+}
+.footer__phone {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin-bottom: 36px;
+}
+.footer__phone:hover {
+  color: #fff;
+}
+.footer__social {
+  display: flex;
+  justify-content: center;
+}
+.footer__social-item {
+  width: 53px;
+  height: 52px;
+  margin: 0 15px;
 }
 
 * {

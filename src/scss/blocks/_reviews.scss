@@ -1,0 +1,36 @@
+.reviews{
+  &__item{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+  }
+  &__photo {
+    height: 169px;
+    width: 169px;
+    display: block;
+  }
+  &__text {
+    padding-left: 60px;
+    max-width: 780px;
+  }
+  &__name{
+    font-weight: 700;
+    font-size: 18px;
+    color: #0D0D0D;
+  }
+  &__progress{
+    font-weight: 500;
+    font-size: 14px;
+    color: #646464;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    text-transform: lowercase;
+  }
+  &__descr{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
