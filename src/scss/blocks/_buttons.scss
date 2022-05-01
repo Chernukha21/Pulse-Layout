@@ -24,3 +24,14 @@
     font-size: 14px;
   }
 }
+@media (max-width: 320px){
+  .button{
+    &_main {
+      width: 200px;
+      text-align: center;
+      display: block;
+      margin: 0 auto;
+      font-size: 10px;
+    }
+  }
+}

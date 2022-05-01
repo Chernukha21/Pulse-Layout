@@ -37,4 +37,27 @@
   }
 }
 
-
+@media (max-width: 575px) {
+  .header{
+    &__official{
+      display: none;
+    }
+  }
+}
+@media (max-width: 480px){
+  .header{
+    &__logo{
+      width: 180px;
+    }
+  }
+}
+@media (max-width: 320px){
+  .header{
+    justify-content: center;
+    flex-direction: column;
+    &__logo{
+      width: 250px;
+      margin-bottom: 30px;
+    }
+  }
+}

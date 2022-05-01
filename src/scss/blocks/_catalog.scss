@@ -46,7 +46,7 @@
     margin-bottom: 17px;
     margin-right: 10px;
     border: 2px solid #E8E8E8;
-    width: 303px;
+    max-width: 303px;
     min-height: 442px;
     padding: 20px 20px 26px 20px;
     overflow: hidden;
@@ -164,6 +164,24 @@
           top: 5px;
         }
       }
+    }
+  }
+}
+@media (max-width: 767px) {
+  .catalog{
+    &__tabs{
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    &__tab{
+      min-width: 200px;
+      margin-bottom: 20px;
+    }
+    &__content{
+      justify-content: center;
+    }
+    &-item{
+      margin-right: 5px;
     }
   }
 }

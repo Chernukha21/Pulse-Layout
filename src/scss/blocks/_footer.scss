@@ -41,3 +41,35 @@
     margin: 0 15px;
   }
 }
+@media (max-width: 575px){
+  .footer{
+    &__info{
+      max-width: 180px;
+      height: 350px;
+      left: 84.5%;
+      padding: 20px 10px 20px 10px;
+    }
+    &__addr{
+      font-size: 15px;
+      line-height: 15px;
+    }
+    &__phone{
+      font-size: 17px;
+    }
+    &__social{
+      flex-direction: column;
+      justify-content: center;
+    }
+    &__social-item{
+      display: block;
+      margin: 10px auto 0 auto;
+    }
+  }
+}
+@media (max-width: 390px){
+  .footer{
+    &__info{
+      left: 71.8%;
+    }
+  }
+}

@@ -2,6 +2,7 @@ $(document).ready(function(){
     $('.carousel__inner').slick({
         speed: 500,
         slidesToShow: 1,
+        variableWidth: true,
         prevArrow: `<button class="slick-prev" type="button"><img src="img/slider/left.png"  alt=""></button>`,
         nextArrow: `<button class="slick-next" type="button"><img src="img/slider/right.png"  alt=""></button>`,
         responsive: [
@@ -10,8 +11,7 @@ $(document).ready(function(){
             settings: {
                 slidesToShow: 1,
                 slidesToScroll: 1,
-                infinite: true,
-                dots: true,
+                centerMode: true,
                 arrows: false
                 }
             },
@@ -19,14 +19,17 @@ $(document).ready(function(){
                 breakpoint: 576,
                 settings: {
                     slidesToShow: 1,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    centerMode: true,
+                    arrows: false
                 }
             },
             {
                 breakpoint: 320,
                 settings: {
                     slidesToShow: 1,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    arrows: false,
                 }
             }]
     });

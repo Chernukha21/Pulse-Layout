@@ -9,3 +9,16 @@
     color: #fff;
   }
 }
+@media (max-width: 767px){
+  .consultation{
+    padding: 100px 20px 92px 20px;
+  }
+}
+@media (max-width: 575px) {
+  .consultation{
+    &__desc{
+      font-size: 18px;
+      line-height: 22px;
+    }
+  }
+}

@@ -34,3 +34,12 @@
     }
   }
 }
+@media (max-width: 575px) {
+  .benefits{
+    &__wrapper{
+      margin-bottom: 0;
+      padding-bottom: 40px;
+      flex-wrap: wrap;
+    }
+  }
+}
