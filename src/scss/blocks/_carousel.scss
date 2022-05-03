@@ -57,10 +57,24 @@
   .carousel{
     min-height: 450px;
     &__inner{
-      max-width: 470px;
+      max-width: 430px;
     }
     .slick-slide {
-      max-width: 470px;
+      max-width: 430px;
+      img{
+        width: 100%;
+      }
+    }
+  }
+}
+@media (max-width: 414px){
+  .carousel{
+    min-height: 450px;
+    &__inner{
+      max-width: 390px;
+    }
+    .slick-slide {
+      max-width: 390px;
       img{
         width: 100%;
       }
@@ -68,7 +82,7 @@
   }
 }
 
-@media (max-width: 390px){
+@media (max-width: 391px){
   .carousel{
     &__inner{
       max-width: 320px;

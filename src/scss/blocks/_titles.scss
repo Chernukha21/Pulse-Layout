@@ -24,6 +24,16 @@
 }
 @media (max-width: 575px) {
   .title{
+    font-size: 25px;
+    &_left{
+      font-size: 20px;
+      line-height: 28px;
+    }
+  }
+}
+@media (max-width: 390px) {
+  .title{
+    font-size: 20px;
     &_left{
       font-size: 20px;
       line-height: 28px;

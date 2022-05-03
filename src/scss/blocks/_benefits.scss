@@ -14,7 +14,11 @@
     img{
       display: block;
       margin: 0 auto 35px auto;
+      &:hover{
+        animation: heartbeat 1.5s ease infinite;
+      }
     }
+
   }
   &__text{
     font-weight: 700;

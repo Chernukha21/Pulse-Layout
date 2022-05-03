@@ -20,13 +20,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a341045-b2b4-4aad-aad2-1fa171aea048" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_reviews.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/base/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_pageup.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-100.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-100.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-100.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-100Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-100Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-100Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-300Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-300Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-300Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-500.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-500.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-500.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-500Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-500Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-500Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-700Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-700Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-700Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-900Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-900Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/MuseoSansCyrl-900Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MuseoSans/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_benefits.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/blocks/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_carousel.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/blocks/_catalog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_catalog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_consultation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_consultation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/blocks/_titles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_titles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.css.map" afterDir="false" />
@@ -53,12 +96,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Layout Training\Pulse-Layout\src\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Study\Layout training 3" />
       <recent name="E:\Study\Layout training 3\src\css" />
@@ -92,7 +138,14 @@
       <workItem from="1651215754963" duration="10251000" />
       <workItem from="1651234372285" duration="10170000" />
       <workItem from="1651245270991" duration="1008000" />
-      <workItem from="1651301486044" duration="11519000" />
+      <workItem from="1651301486044" duration="12638000" />
+      <workItem from="1651317039583" duration="4000" />
+      <workItem from="1651391262652" duration="230000" />
+      <workItem from="1651391522012" duration="23000" />
+      <workItem from="1651425371881" duration="117000" />
+      <workItem from="1651480215602" duration="14533000" />
+      <workItem from="1651507819906" duration="1184000" />
+      <workItem from="1651563050860" duration="10967000" />
     </task>
     <servers />
   </component>
@@ -107,7 +160,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
